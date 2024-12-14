@@ -45,22 +45,6 @@ A Empire Tereré nasceu com o propósito de oferecer aos fãs da arte do tereré
 3. **Abra o arquivo `index.html` em um navegador** para visualizar o site.
 
 Ou você pode usar um servidor local para rodar o projeto. Se você tem o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) instalado no VS Code, basta clicar com o botão direito no arquivo `index.html` e escolher a opção "Open with Live Server".
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias no projeto! Para isso, siga os passos abaixo:
-
-1. Faça um **fork** do repositório.
-2. Crie uma nova branch:
-    ```bash
-    git checkout -b minha-branch
-    ```
-3. Faça suas alterações e **commit**:
-    ```bash
-    git commit -m "Descrição das alterações"
-    ```
-4. **Push** suas alterações para o repositório remoto:
-    ```bash
     git push origin minha-branch
     ```
 5. Abra um **pull request** para que suas alterações sejam revisadas e mescladas ao projeto principal.
